@@ -432,7 +432,7 @@ font-weight: lighter;
     transition: all 0.2s ease-in;
 }
 .Testimonial .test .reviews p{
-    margin-top: -20px;
+    margin-top: -30px;
     padding-left: 10px;
 }
 
@@ -986,7 +986,7 @@ color: #ffffff;
     padding-top: 0;
 }
 .endtopic{
-    padding-left: 30px;
+    padding-left: 50px;
 }
 .shortcut a:hover{
     text-decoration: underline;
